@@ -1,10 +1,10 @@
-# credit-risk-classification
+### credit-risk-classification
 
-## Overview of the Analysis
+# Overview of the Analysis
 
-# Purpose: Build a model that can identify the creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company.
+### Purpose: Build a model that can identify the creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company.
 
-# Data
+## Data
 * Loan Size
 * Interest Rate
 * Borrower Income
